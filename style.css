@@ -1,0 +1,17 @@
+body{
+    font-family:  arial;
+    text-align: center;
+    margin-top: 120px;
+    background-color: rgb(43, 201, 37);
+    color: rgb(2, 6, 12);
+}
+
+#palabra{
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+#mensaje{
+    color: rgb(0, 0, 0);
+    font-size: 40px;
+}
